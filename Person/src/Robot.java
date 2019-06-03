@@ -1,6 +1,5 @@
 
 public class Robot {
-	public class Person {
 		 public String name=null;
 
 		 public void talk(){
@@ -13,4 +12,4 @@ public class Robot {
 			 System.out.println(this.name+"が歩く");
 		 }
 		}
-}
+

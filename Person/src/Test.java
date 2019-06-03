@@ -59,21 +59,21 @@ public class Test {
 	   taro.walk();
 	   taro.run();
 
-	   Person aibo=new Person();
+	   Robot aibo=new Robot();
 	   aibo.name="aibo";
 	   System.out.println(aibo.name);
 	   aibo.talk();
 	   aibo.walk();
 	   aibo.run();
 
-	   Person asimo=new Person();
+	   Robot asimo=new Robot();
 	   aibo.name="asimo";
 	   System.out.println(aibo.name);
 	   aibo.talk();
 	   aibo.walk();
 	   aibo.run();
 
-	   Person pepper=new Person();
+	   Robot pepper=new Robot();
 	   aibo.name="pepper";
 	   System.out.println(aibo.name);
 	   aibo.talk();
